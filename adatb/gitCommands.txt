@@ -1,7 +1,0 @@
-git config --global user.name "[name]"
-git config --global user.email "[email address]"
-git init
-git clone <repository_url>
-git clone –branch <branch_name> <repository_url>
-git pull
-git push
